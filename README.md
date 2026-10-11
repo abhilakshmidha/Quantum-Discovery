@@ -1,4 +1,4 @@
-# Qpharma - Quantum Drug Discovery Platform
+# Qpharma - Quantum Discovery Platform
 
 A full-stack application that combines quantum computing and classical methods for molecular analysis and drug discovery.
 
